@@ -18,6 +18,7 @@ Das Changelog-Styling basiert auf [Keep a Changelog](https://keepachangelog.com/
 - Smilodons lassen etwas weniger Heiler und Mana fallen.
 - Der Einäugige geht nicht mehr so Aggressiv mit seinem Fluch um.
 - Jarko lässt seinen Schlüssel jetzt noch etwas häufiger fallen.
+- Krieger des Einäugigen haben einen neuen Rundumschlag.
 
 ### Event
 - Herogin Kurzweil wird nicht mehr automatisch erscheinen.
@@ -25,7 +26,7 @@ Das Changelog-Styling basiert auf [Keep a Changelog](https://keepachangelog.com/
 - Die Osterhasen Kung und Fu sind wieder da!
 
 ### Homepage
-- Voten für D4OGold funktioniert wieder
+- Voten für D4OGold funktioniert wieder.
 
 ## [0.8h] [Client/Server v1.77 Rev010] 22-03-2019
 ### Client/Server
