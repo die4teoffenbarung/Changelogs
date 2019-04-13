@@ -5,13 +5,14 @@ Das Changelog-Styling basiert auf [Keep a Changelog](https://keepachangelog.com/
 
 ## [Unreleased] [0.8i] [Client/Server v1.77 Rev011] 09-04-2019
 ### Client/Server
-- Fehlendes Icon beim Lernen & Trainieren von Rundumschlag hinzugefügt
-- Rundumschlag sollte wieder wie gewohnt funktionieren
+- Fehlendes Icon beim Lernen & Trainieren von Rundumschlag hinzugefügt.
+- Rundumschlag sollte wieder wie gewohnt funktionieren.
 
 ### Quest
 
 ### Gegenstände
-- Magicus- und Medicus-Set benötigen nur noch 2 der Gegenstände für einen Bonus, außerdem wurde das auftreten des Bonus beides Sets erhöht
+- Magicus- und Medicus-Set benötigen nur noch 2 der Gegenstände für einen Bonus, außerdem wurde das auftreten des Bonus beides Sets erhöht.
+- Zuckerstange des Weihnachtsmanns wurde angepasst für eine korrekte Berechnung.
 
 ### Monster
 - Smilodons lassen etwas weniger Heiler und Mana fallen.
@@ -21,7 +22,7 @@ Das Changelog-Styling basiert auf [Keep a Changelog](https://keepachangelog.com/
 ### Event
 - Herogin Kurzweil wird nicht mehr automatisch erscheinen.
 - Liebeswochen sind beendet.
-- Die Osterhasten Kung und Fu sind wieder da!
+- Die Osterhasen Kung und Fu sind wieder da!
 
 ### Homepage
 - Voten für D4OGold funktioniert wieder
