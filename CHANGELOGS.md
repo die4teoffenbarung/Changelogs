@@ -11,7 +11,7 @@ Das Changelog-Styling basiert auf [Keep a Changelog](https://keepachangelog.com/
 ### Quest
 
 ### Gegenstände
-- Magicus- und Medicus-Set benötigen nur noch 2 der Gegenstände für einen Bonus, außerdem wurde das auftreten des Bonus beides Set's erhöht
+- Magicus- und Medicus-Set benötigen nur noch 2 der Gegenstände für einen Bonus, außerdem wurde das auftreten des Bonus beides Sets erhöht
 
 ### Monster
 - Smilodons lassen etwas weniger Heiler und Mana fallen.
@@ -21,7 +21,7 @@ Das Changelog-Styling basiert auf [Keep a Changelog](https://keepachangelog.com/
 ### Event
 - Herogin Kurzweil wird nicht mehr automatisch erscheinen.
 - Liebeswochen sind beendet.
-- Die Osterhasten Kung und Fu' sind wieder da!
+- Die Osterhasten Kung und Fu sind wieder da!
 
 ### Homepage
 - Voten für D4OGold funktioniert wieder
@@ -118,7 +118,7 @@ Das Changelog-Styling basiert auf [Keep a Changelog](https://keepachangelog.com/
 
 ## [0.8b] [Client/Server v1.77 Rev003] 03-08-2018
 ### Monster
-- Nar'Dok macht etwas weniger Schaden.
+- NarDok macht etwas weniger Schaden.
 - Krieger des Einäugigen droppen nicht mehr all zu häugfig Heiler- und Mana.
 - Smilodons und "Ein Blinder" droppen jetzt den Eisenschlüssel des Imperiums
 
@@ -144,7 +144,7 @@ Das Changelog-Styling basiert auf [Keep a Changelog](https://keepachangelog.com/
 - Der Schwarzmarkt hat neue Ware erhalten.
 
 ### Monster
-- Nar'dok hat noch mehr nagelneuen Drop, den "Alten-Neuen" hat leider auch noch keiner gesehen...
+- Nardok hat noch mehr nagelneuen Drop, den "Alten-Neuen" hat leider auch noch keiner gesehen...
 - Krieger des Einäugigen geben jetzt mehr Erfahrungspunkte und haben neuen Drop.
 - Unruhige Seelen geben jetzt etwas mehr Erfahrung.
 - I4 Monster droppen wieder häufiger "Mana" und "Heiler".
