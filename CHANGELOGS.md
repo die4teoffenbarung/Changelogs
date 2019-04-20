@@ -12,7 +12,7 @@ Das Changelog-Styling basiert auf [Keep a Changelog](https://keepachangelog.com/
 
 ### Gegenstände
 - Magicus- und Medicus-Set benötigen nur noch 2 der Gegenstände für einen Bonus, außerdem wurde das auftreten des Bonus beides Sets erhöht.
-- Zuckerstange des Weihnachtsmanns wurde angepasst für eine korrekte Berechnung.
+- Zuckerstange des Weihnachtsmanns gibt nur noch mit atkiver Zuckerstange Glück, das Glück wurde im gleichen Zug erhöht.
 
 ### Monster
 - Smilodons lassen etwas weniger Heiler und Mana fallen.
