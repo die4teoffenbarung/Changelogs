@@ -3,16 +3,20 @@ Alle Änderungen für den Live-Server werden [hier](https://www.d4o.info/index.p
 
 Das Changelog-Styling basiert auf [Keep a Changelog](https://keepachangelog.com/de/1.0.0/).
 
-## [Unreleased] [0.8i] [Client/Server v1.77 Rev011] 09-04-2019
+## [0.8i] [Client/Server v1.77 Rev012] 23-04-2019
 ### Client/Server
+- Alle Charaktere wurden nackt in ihre Zuflucht gestellt.
 - Fehlendes Icon beim Lernen & Trainieren von Rundumschlag hinzugefügt.
 - Rundumschlag sollte wieder wie gewohnt funktionieren.
 
-### Quest
-
 ### Gegenstände
-- Magicus- und Medicus-Set benötigen nur noch 2 der Gegenstände für einen Bonus, außerdem wurde das auftreten des Bonus beides Sets erhöht.
+- Magicus- und Medicus-Set benötigen nur noch 2 der Gegenstände für einen Bonus, außerdem wurde das auftreten des Bonus beider Sets erhöht.
 - Zuckerstange des Weihnachtsmanns gibt nur noch mit atkiver Zuckerstange Glück, das Glück wurde im gleichen Zug erhöht.
+- Hasenohren geben ab jetzt, in Verbindung mit der neuen Hasenpfote, mehr Glück.
+
+### NPCs
+- Wechselstube funktioniert wieder.
+- Shop-Händler in Lichthafen verlangen ab jetzt D4OGold, umtauschen ist also nicht mehr notwendig.
 
 ### Monster
 - Smilodons lassen etwas weniger Heiler und Mana fallen.
