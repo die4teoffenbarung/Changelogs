@@ -3,6 +3,25 @@ Alle Änderungen für den Live-Server werden [hier](https://www.d4o.info/index.p
 
 Das Changelog-Styling basiert auf [Keep a Changelog](https://keepachangelog.com/de/1.0.0/).
 
+## [UNRELEASED] [0.8j] [Client/Server v1.77 Rev013] 23-04-2019
+### Client/Server
+
+
+### Gegenstände
+
+
+### NPCs
+
+
+### Monster
+
+
+### Event
+
+
+### Homepage
+
+
 ## [0.8i] [Client/Server v1.77 Rev012] 23-04-2019
 ### Client/Server
 - Alle Charaktere wurden nackt in ihre Zuflucht gestellt.
