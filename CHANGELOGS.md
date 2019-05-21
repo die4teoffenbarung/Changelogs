@@ -5,22 +5,23 @@ Das Changelog-Styling basiert auf [Keep a Changelog](https://keepachangelog.com/
 
 ## [UNRELEASED] [0.8j] [Client/Server v1.77 Rev013] 23-04-2019
 ### Client/Server
-
+- Willkommensnachrichten beim betreten der Welt wurden erweitert. (Werden nach und nach aktiviert.)
 
 ### Gegenstände
-
+- Zuckerstange des Weihnachtsmanns funktioniert jetzt wie beabsichtigt.
+- Jarkos Truhe hatte ein Blocking-Problem und wurde behoben.
 
 ### NPCs
-
+- Spenden-NPCs haben ein paar Textkorrekturen erhalten.
 
 ### Monster
-
+- Krieger des Einäugigen sind ab jetzt etwas sparsamer mit ihrem Solarplexushieb, im gleichen Zug haben wir die Reichweite der Fähigkeit großzügig reduziert.
 
 ### Event
-
+- Oster-Event ist beendet
 
 ### Homepage
-
+- Familien-Liste funktioniert wieder wie gewohnt
 
 ## [0.8i] [Client/Server v1.77 Rev012] 23-04-2019
 ### Client/Server
