@@ -2,8 +2,22 @@
 Alle Änderungen für den Live-Server werden [hier](https://www.d4o.info/index.php/das-spiel/server/changelogs/326-version-dev.html) eingetragen.
 
 Das Changelog-Styling basiert auf [Keep a Changelog](https://keepachangelog.com/de/1.0.0/).
+## [UNRELEASED] [0.8k] [Client/Server v1.77 Rev013] 27-05-2019
+### Client/Server
 
-## [UNRELEASED] [0.8j] [Client/Server v1.77 Rev013] 23-04-2019
+### Gegenstände
+
+### NPCs
+
+### Monster
+
+### Event
+
+
+### Homepage
+
+
+## [0.8j] [Client/Server v1.77 Rev013] 27-05-2019
 ### Client/Server
 - Willkommensnachrichten beim betreten der Welt wurden erweitert. (Werden nach und nach aktiviert.)
 
