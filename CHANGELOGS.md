@@ -17,22 +17,26 @@ Das Changelog-Styling basiert auf [Keep a Changelog](https://keepachangelog.com/
 ### Homepage
 
 
-## [0.8j] [Client/Server v1.77 Rev013] 27-05-2019
+## [0.8j] [Client/Server v1.77 Rev013] 10-06-2019
 ### Client/Server
 - Willkommensnachrichten beim betreten der Welt wurden erweitert. (Werden nach und nach aktiviert.)
 
 ### Gegenstände
 - Zuckerstange des Weihnachtsmanns funktioniert jetzt wie beabsichtigt.
 - Jarkos Truhe hatte ein Blocking-Problem und wurde behoben.
+- Hasenohren und die Hasenpfote von Kung wurden auf einen Zauber reduziert und die Zauber-Beschreibung angepasst.
+- Grimoire der Unterwelt's boost sollte nicht mehr auslaufen.
+- Glückstrank Zauber-Beschreibung angepasst.
 
 ### NPCs
 - Spenden-NPCs haben ein paar Textkorrekturen erhalten.
+- Bischof Krähbanner's Magenverstimmung dauert nur noch halb so lange an wie üblich.
 
 ### Monster
-- Krieger des Einäugigen sind ab jetzt etwas sparsamer mit ihrem Solarplexushieb, im gleichen Zug haben wir die Reichweite der Fähigkeit großzügig reduziert.
+- Krieger des Einäugigen führen ihren Solarplexushieb nicht mehr so häufig aus, im gleichen Zug haben wir die Reichweite der Fähigkeit großzügig reduziert.
 
 ### Event
-- Oster-Event ist beendet
+- Oster-Event ist beendet.
 
 ### Homepage
 - Familien-Liste funktioniert wieder wie gewohnt
