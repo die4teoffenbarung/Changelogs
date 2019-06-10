@@ -30,7 +30,7 @@ Das Changelog-Styling basiert auf [Keep a Changelog](https://keepachangelog.com/
 
 ### NPCs
 - Spenden-NPCs haben ein paar Textkorrekturen erhalten.
-- Bischof Krähbanner's Magenverstimmung dauert nur noch halb so lange an wie üblich. Teast
+- Bischof Krähbanner's Magenverstimmung dauert nur noch halb so lange an wie üblich.
 
 ### Monster
 - Krieger des Einäugigen führen ihren Solarplexushieb nicht mehr so häufig aus, im gleichen Zug haben wir die Reichweite der Fähigkeit großzügig reduziert.
