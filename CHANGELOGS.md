@@ -25,7 +25,7 @@ Das Changelog-Styling basiert auf [Keep a Changelog](https://keepachangelog.com/
 - Zuckerstange des Weihnachtsmanns funktioniert jetzt wie beabsichtigt.
 - Jarkos Truhe hatte ein Blocking-Problem und wurde behoben.
 - Hasenohren und die Hasenpfote von Kung wurden auf einen Zauber reduziert und die Zauber-Beschreibung angepasst.
-- Grimoire der Unterwelt's boost sollte nicht mehr auslaufen.
+- Grimoire der Unterwelt's Zauber sollte nicht mehr auslaufen.
 - Glückstrank Zauber-Beschreibung angepasst.
 
 ### NPCs
