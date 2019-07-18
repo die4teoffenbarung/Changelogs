@@ -4,6 +4,7 @@ Alle Änderungen für den Live-Server werden [hier](https://www.d4o.info/index.p
 Das Changelog-Styling basiert auf [Keep a Changelog](https://keepachangelog.com/de/1.0.0/).
 ## [UNRELEASED] [0.8k] [Client/Server v1.77 Rev015] 18-07-2019
 ### Client/Server
+- Doppel-Rechtsklick auf einen Gegenstand ohne "Item-Info" öffnet ein neues Browser-Fenster zu unserem Lexikon und sucht automatisch nach diesem.
 - Der Angriffsmodus hat ein neues Icon erhalten.
 
 ### Items
