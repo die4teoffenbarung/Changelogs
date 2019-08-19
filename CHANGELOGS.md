@@ -2,20 +2,75 @@
 Alle Änderungen für den Live-Server werden [hier](https://www.d4o.info/index.php/das-spiel/server/changelogs/326-version-dev.html) eingetragen.
 
 Das Changelog-Styling basiert auf [Keep a Changelog](https://keepachangelog.com/de/1.0.0/).
-## [UNRELEASED] [0.8l] [Client/Server v1.78 Rev005] 30-07-2019
+## [0.8r] [Client/Server v1.78 Rev017] 13-10-2019
 ### Client/Server
+- Automatisches Sanktionen-System aktiviert. Es stellt sicher dass unsere Server-Regeln eingehalten werden.
+### NPCs
+- Wiederholen/Kaufen einer Wiedergeburt bei Erzmagier Grim setzt das Karma nicht mehr zurück.
+- Rauru sollte jetzt alle Gegenstände beim Binden abnehmen.
+- Aloysius Sternenstrahl tauscht ab jetzt alle mitgeführten Spinnenaugen statt immer nur ein Paar.
+### Monster
+- Mondstein-Drops beim Einäugigen haben jetzt alle die gleiche Drop-Chance und sollten sehr selten fallen gelassen werden.
+- Krieger des Einäugigen haben eine weitere Schadensanpassung erhalten und weichen etwas mehr aus.
+### Items
+- Mithril Katar +2 wird wieder angezeigt, wenn es angelegt wurde.
+### Event
+- Geisterwochen wurden aktiviert.
+- Neuer Titel erspielbar: `Geisterjäger/in`
+### Sonstiges
+- Blocking-Fehler korrigiert.
+## [0.8q] [Client/Server v1.78 Rev017] 28-09-2019
+### Client/Server
+- Befehle `!Names` und `strg+n` zeigen keine Monster-Namen mehr an.
+### NPCs
+- Mara Wing gibt jetzt die korrekten Flügel für `Leuchtende hellblaue Flügel` und `Leuchtende grünrote Flügel` raus.
+### Monster
+- Krieger des Einäugigen haben zu Testzwecken erst einmal eine kleinere Schadensanpassung erhalten und sollten nicht mehr ganz so häufig Treffen.
+###Zauber
+- Seuche wurde etwas angepasst, um Fehler bei gewissen Monstern vorzubeugen.
+### Items
+- Buch des Propheten wurde korrigiert, es gibt ab jetzt `+20 Lichtmagie [Vorher 15]` und `+15 Dunkel-Resistenz [Vorher -15]`
+- Armband der Flammen wurden die gemeldeten Fehler beseitigt. Außerdem hat es nach der Nutzung wieder eine Wartezeit. Die Wartezeit beträgt nur noch 3 Sekunden.
+### Homepage
+- Waffen im Lexikon haben seit kurzem wieder Schadenswerte, diese sollten jetzt weitestgehend korrekt sein.
+## [0.8p] [Client/Server v1.78 Rev016] 20-09-2019
+### Client/Server
+- Meditieren zeigt ab jetzt eine `Meditiert` benachrichtigung und das regenerierte Mana an.
+- Ein Fehler wurde behoben, bei dem die `Betäubt!` Benachrichtigung bei gewissen Umständen nicht korrekt dargestellt wurde.
+### Monster
+- Krieger des Einäugigen und Zeithüter hatten durch einen Hotfix, der eigentlich keine Echte Änderung darstellen sollte, eine nicht korrekte Berechnung von Schaden/Reichweite zur Folge.
+### NPCs
+- Barius aggiert ab jetzt korrekt wenn man das Schlüsselwort `Trank herstellen` anklickt.
+### Items
+- Armband der Flammen löst nur noch aus wenn der Charakter sich auch aktiv am Kampf beteiligt.
+### Sonstiges
+- Lagerkiste und Familien-Lager wurden getrennt. 
+- Diverse Textkorrekturen.
+
+## [0.8o] [Client/Server v1.78 Rev016] 11-09-2019
+### Client/Server
+- WICHTIG: T4CConfig.exe hat eine neue Funktion zum ein- und ausschalten der Grafikengine-Optimierung: `Boost Windows Vista, 7, 8, 10`. 
+Jeder sollte individuell, durch ausprobieren, die beste Einstellung für das eigene System herausfinden.
+- Webpatch wurde optimiert und wird vor dem Start des Clients geprüft.
+- Fehler mit zwei oder mehr Bildschirmen wurde behoben. Das Spiel sollte beim versuch das Fenster auf einen sekundären Monitor zu verschieben nicht mehr crashen.
+- Haustiere konnten durch einen Fehler nicht mehr herbeigerufen werden, diesen haben wir behoben.
+- Solltet ihr einen Gegner betäuben werdet ihr über die Schadens-Nachricht darüber informiert.
 
 ### Items
+- Jarkos Zauberbuchs Schaden wurde drastisch reduziert.
 
-### NPCs
+## [0.8n] [Client/Server v1.78 Rev011] 23-08-2019
+### Client/Server
+- Kleinere Anpassung für eine bessere/korrekte Darstellung der Benutzeroberfläche.
+- T4CConfig.ini wurde in D4OConfig.ini umbenannt und sollte automatisch vom Client erkannt/kopiert werden.
 
-### Zauber
-
+## [0.8m] [Client/Server v1.78 Rev009] 21-08-2019
+### Client/Server
+- Anpassungen für verbesserte Kompatibilität mit aktuellen Windows-Betriebssystemen. Wir hoffen es läuft bei allen weiterhin ohne größere Probleme.
+- Die Schrift im Fenstermodus sollte ab jetzt nicht mehr pixelig wirken wenn das Fenster vergrößert wird.
+- Problem mit fehlenden Rechtsklick-Hilfetexten im GUI wurde behoben.
 ### Monster
-- Der Einäugige hat ein paar kleinere Anpassungen erhalten, außerdem verflucht er Helden nicht mehr zum Kill.
-### Event
-
-### Sonstiges
+- Der Einäugige hat ein paar kleinere Anpassungen erhalten außerdem verflucht er Helden nicht mehr.
 
 ## [0.8l] [Client/Server v1.78 Rev005] 16-08-2019
 ### Client/Server
