@@ -2,6 +2,18 @@
 Alle Änderungen für den Live-Server werden [hier](https://www.d4o.info/index.php/das-spiel/server/changelogs/326-version-dev.html) eingetragen.
 
 Das Changelog-Styling basiert auf [Keep a Changelog](https://keepachangelog.com/de/1.0.0/).
+## [0.8s] [Client/Server v1.78 Rev018] 08-11-2019
+### Client/Server
+- Windows 7/8/10-Boost hat ein Update erhalten und sollte unter Anderem Fehler mit gewisser Hardware beseitigen.
+### Monster
+- Krieger des Einäugigen haben eine weitere Schadensanpassung erhalten.
+- Höllenhund hat einige Korrekturen erhalten. Unter anderem sollte jetzt jeder Kill gezählt werden und die Welpen erscheinen am Charakter.
+### Items
+- Grimoire der Unterwelt hatte einen Fehler durch den die Boosts nicht mehr richtig berechnet werden konnten.
+- Adamant beschlagener Mondstein kann nicht mehr abgelegt werden.
+### Event
+- Geisterwochen etwas verlängert, allerdings nur noch einige Tage aktiv.
+
 ## [0.8r] [Client/Server v1.78 Rev017] 13-10-2019
 ### Client/Server
 - Automatisches Sanktionen-System aktiviert. Es stellt sicher dass unsere Server-Regeln eingehalten werden.
@@ -19,6 +31,7 @@ Das Changelog-Styling basiert auf [Keep a Changelog](https://keepachangelog.com/
 - Neuer Titel erspielbar: `Geisterjäger/in`
 ### Sonstiges
 - Blocking-Fehler korrigiert.
+
 ## [0.8q] [Client/Server v1.78 Rev017] 28-09-2019
 ### Client/Server
 - Befehle `!Names` und `strg+n` zeigen keine Monster-Namen mehr an.
@@ -33,6 +46,7 @@ Das Changelog-Styling basiert auf [Keep a Changelog](https://keepachangelog.com/
 - Armband der Flammen wurden die gemeldeten Fehler beseitigt. Außerdem hat es nach der Nutzung wieder eine Wartezeit. Die Wartezeit beträgt nur noch 3 Sekunden.
 ### Homepage
 - Waffen im Lexikon haben seit kurzem wieder Schadenswerte, diese sollten jetzt weitestgehend korrekt sein.
+
 ## [0.8p] [Client/Server v1.78 Rev016] 20-09-2019
 ### Client/Server
 - Meditieren zeigt ab jetzt eine `Meditiert` benachrichtigung und das regenerierte Mana an.
