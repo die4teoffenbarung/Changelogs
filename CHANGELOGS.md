@@ -2,7 +2,15 @@
 Alle Änderungen für den Live-Server werden [hier](https://www.d4o.info/index.php/das-spiel/server/changelogs/326-version-dev.html) eingetragen.
 
 Das Changelog-Styling basiert auf [Keep a Changelog](https://keepachangelog.com/de/1.0.0/).
-## [0.8s] [Client/Server v1.78 Rev018] 08-11-2019
+## [0.8t] [Client/Server v1.78 Rev018] 27-11-2019
+### NPCs
+- Weihnachtsmann verschenkt erst wenn ein gewisser Obolus entrichtetg wurde. 
+### Monster
+- Alle Wespen-Kills sollten jetzt in der Ranglisten zählen.
+### Event
+- Geisterwochen beendet.
+- Weihnachtsevent aktiviert.
+## [0.8s] [Client/Server v1.78 Rev018] 13-11-2019
 ### Client/Server
 - Windows 7/8/10-Boost hat ein Update erhalten und sollte unter Anderem Fehler mit gewisser Hardware beseitigen.
 ### Monster
@@ -13,7 +21,6 @@ Das Changelog-Styling basiert auf [Keep a Changelog](https://keepachangelog.com/
 - Adamant beschlagener Mondstein kann nicht mehr abgelegt werden.
 ### Event
 - Geisterwochen etwas verlängert, allerdings nur noch einige Tage aktiv.
-
 ## [0.8r] [Client/Server v1.78 Rev017] 13-10-2019
 ### Client/Server
 - Automatisches Sanktionen-System aktiviert. Es stellt sicher dass unsere Server-Regeln eingehalten werden.
