@@ -2,9 +2,14 @@
 Alle Änderungen für den Live-Server werden [hier](https://www.d4o.info/index.php/das-spiel/server/changelogs/326-version-dev.html) eingetragen.
 
 Das Changelog-Styling basiert auf [Keep a Changelog](https://keepachangelog.com/de/1.0.0/).
+## [0.8u] [Client/Server v1.78 Rev018] 12-05-2020
+### Items
+- Große Zuckerstange des Weihnachtsmanns gibt ab jetzt immer Glück wenn sie angelegt wurde.
+### Skill
+- Rundumschlag wurde ein seltener Fehler behoben, dieser trat unter ganz gewissen Umständen auf. Es führte dazu, dass er nicht mehr Ausgeführt wurde und ein Staff eingreifen musste.
 ## [0.8t] [Client/Server v1.78 Rev018] 27-11-2019
 ### NPCs
-- Weihnachtsmann verschenkt erst wenn ein gewisser Obolus entrichtetg wurde. 
+- Weihnachtsmann verschenkt erst wenn ein gewisser Obolus entrichtet wurde. 
 ### Monster
 - Alle Wespen-Kills sollten jetzt in der Ranglisten zählen.
 ### Event
