@@ -3,6 +3,8 @@ Alle Änderungen für den Live-Server werden [hier](https://www.d4o.info/index.php
 
 Das Changelog-Styling basiert auf [Keep a Changelog](https://keepachangelog.com/de/1.0.0/).
 ## [0.8u] [Client/Server v1.78 Rev018] 12-05-2020
+### NPCs
+- Marawings Flügel-Wiederherstellung wurde behoben.
 ### Items
 - Große Zuckerstange des Weihnachtsmanns gibt ab jetzt immer Glück wenn sie angelegt wurde.
 ### Skill
@@ -12,9 +14,6 @@ Das Changelog-Styling basiert auf [Keep a Changelog](https://keepachangelog.com/
 - Weihnachtsmann verschenkt erst wenn ein gewisser Obolus entrichtet wurde. 
 ### Monster
 - Alle Wespen-Kills sollten jetzt in der Ranglisten zählen.
-### Event
-- Geisterwochen beendet.
-- Weihnachtsevent aktiviert.
 ## [0.8s] [Client/Server v1.78 Rev018] 13-11-2019
 ### Client/Server
 - Windows 7/8/10-Boost hat ein Update erhalten und sollte unter Anderem Fehler mit gewisser Hardware beseitigen.
