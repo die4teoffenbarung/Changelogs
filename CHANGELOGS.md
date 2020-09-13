@@ -4,24 +4,25 @@ Alle Änderungen für den Live-Server werden [hier](https://www.d4o.info/index.php
 Das Changelog-Styling basiert auf [Keep a Changelog](https://keepachangelog.com/de/1.0.0/).
 ## [0.9-UNRELEASED] [Client / Server v1.79 Rev002] 13-09-2020
 ### Client / Server
-- Offizielle Dialsoft Änderungen und Neuerungen aus v1.74-DS migriert. 
-Wir sind hier noch nicht komplett fertig und einige unserer Features müssen noch eingebaut werden.
+- Offizielle Dialsoft Änderungen und Neuerungen aus v1.74 migriert. 
+Wir sind hier noch nicht komplett fertig und einige unserer Features müssen noch reimplementiert werden. (Bspw. der Befehl "!names") Unser Fokus liegt 
+vorerst darin alle Fehler auszumerzen, welche sich durch den Update-Prozess eingeschlichen haben könnten.
 - DirectX fix
 - Verbesserte Client-Stabilität
 - Schnellere Ladegeschwindigkeit
 - Reibungsloseres Gameplay
-- "Vollbild" -Modus hinzugefügt (Alt + Enter)
-- Der Befehl "Xpstat" gibt Ihnen Ihre XP und / oder Statistiken
-- Option hinzugefügt: Verstecke Nachricht über Gold-Drop wenn Monster sterben
+- Vollbild-Modus-Makro hinzugefügt (Alt + Enter)
+- Der Befehl "Xpstat" gibt XP und / oder Statistiken aus
+- Option hinzugefügt: Verstecke Gold-Nachricht wenn Monster sterben
 - Hinzufügen eines Tastaturziels
 Um ein Tastaturmonster als Ziel zu wählen, musst du es mit Tab auswählen und durch Klicken auf seine Lebensleiste validieren.
 TAB wählt das nächste Monster aus, mit "Shift" kehrt man zum vorherigen Monster zurück
-- Debug-Ignorierliste
-- Änderung der Verknüpfung zur Anzeige der Karte Strg + Tab
-- Verbesserte Lesbarkeit von Beträgen
-- Hinzufügen eines Tausendertrennzeichens (Beispiel: 1000000 wird 1.000.000)
-- Rechtsbündige Ausrichtung im Auktionshaus
-- Farben im Questbuch hinzugefügt (Aktuell nicht in verwendung)
+- Änderung der Verknüpfung zur Anzeige der Karte Strg + Tab.
+- Verbesserte Lesbarkeit von Beträgen.
+- Hinzufügen eines Tausendertrennzeichens. (Beispiel: 1000000 wird 1.000.000)
+- Rechtsbündige Ausrichtung im Auktionshaus.
+- Farben im Questbuch hinzugefügt.
+- Familien und Gilden haben weitere Optionen erhalten. 
 
 ### NPCs
 
