@@ -2,33 +2,38 @@
 Alle Änderungen für den Live-Server werden [hier](https://www.d4o.info/index.php/das-spiel/server/changelogs/326-version-dev.html) eingetragen.
 
 Das Changelog-Styling basiert auf [Keep a Changelog](https://keepachangelog.com/de/1.0.0/).
-## [0.9-UNRELEASED] [Client / Server v1.79 Rev002] 13-09-2020
-### Client / Server
-- Offizielle Dialsoft Änderungen und Neuerungen aus v1.74 migriert. 
-Wir sind hier noch nicht komplett fertig und einige unserer Features müssen noch reimplementiert werden. (Bspw. der Befehl "!names") Unser Fokus liegt 
-vorerst darin alle Fehler auszumerzen, welche sich durch den Update-Prozess eingeschlichen haben könnten.
-- DirectX fix
-- Verbesserte Client-Stabilität
-- Schnellere Ladegeschwindigkeit
-- Reibungsloseres Gameplay
-- Vollbild-Modus-Makro hinzugefügt (Alt + Enter)
-- Der Befehl "Xpstat" gibt XP und / oder Statistiken aus
-- Option hinzugefügt: Verstecke Gold-Nachricht wenn Monster sterben
-- Hinzufügen eines Tastaturziels
-Um ein Tastaturmonster als Ziel zu wählen, musst du es mit Tab auswählen und durch Klicken auf seine Lebensleiste validieren.
-TAB wählt das nächste Monster aus, mit "Shift" kehrt man zum vorherigen Monster zurück
-- Änderung der Verknüpfung zur Anzeige der Karte Strg + Tab.
-- Verbesserte Lesbarkeit von Beträgen.
-- Hinzufügen eines Tausendertrennzeichens. (Beispiel: 1000000 wird 1.000.000)
-- Rechtsbündige Ausrichtung im Auktionshaus.
-- Farben im Questbuch hinzugefügt.
-- Familien und Gilden haben weitere Optionen erhalten. 
-
-### NPCs
-
+## [Version 1.90] (15-10-2020)
+### Client & Server
+- [Fixed] Offizielle Dialsoft Änderungen und Neuerungen aus v1.74 wurden migriert.
+- [Fixed] Unterstützung für DirectX wurde verbessert.
+- [Fixed] Die Linux-Kompatiblität wurde verbessert.
+- [Fixed] Die Mindest- / Empfohlene-Systemvorraussetzung wurde erhöht.
+- [Fixed] Der Client wurde für `Windows 10` optimiert.
+- [Fixed] Die Stabilität des Clients wurde deutlich verbessert.
+- [Fixed] Die Ladezeiten während Start und Login wurden verbessert.
+- [Fixed] Die Darstellung und Bilder pro Sekunde wurden verbessert um eine deutliche flüssigere Darstellung zu erreichen.
+- [Fixed] Die Darstellung des Auktionshauses wurde Rechtsbündig ausgerichtet.
+- [Fixed] Die Darstellung der Schriftart, insbesondere bei Beträgen, wurde verbessert.
+- [Added] An manchen Stellen wurden Tausendertrennzeichen eingefügt.
+- [Added] Die Einträge im Questbuch werden nun nach ihrer voraussichtlichen Schwierigkeit eingefärbt.
+- [Added] Die Option `Monster Gold-Drop anzeigen` und weitere Optionen wurden hinzugefügt.
+- [Added] Zur Verwaltung von Familien und Gilden wurden weitere Optionen hinzugefügt.
+- [Added] Im Zuge von Anpassungen des Familien-Systems gibt es neue Beschränkungen bei der Namenswahl. **Ihr werdet nach dem Login ggf. aufgefordert euren Namen zu ändern.**
+- [Added] Eine Liste der existierenden Gilden und letzten Namensänderungen wurde in den Client integriert.
+- [Added] Der Wechsel zwischen Fenstermodus und Vollbild ist nun ohne Neustart mit `Alt + Enter` möglich.
+- [Added] Der Befehl `.Xpstat` zeigt nun eine Statistik zur erhaltenen Erfahrung und Gold an.
+- [Added] Die Karte wird nun mit `STRG + Tab` anstelle von `Tab` angezeigt.
+- [Added] Mit `Tab` ist es nun möglich ein Ziel auszuwählen. Mit einem Klick auf den Lebensbalken könnt ihr das Ziel fixieren.
+- [Added] Mit `Shift + Tab` ist es nun möglich das vorherige Ziel auszuwählen.
 ### Items
-
-### Skill
+- [Fixed] Gürtel des Instabilen schutzes kostet jetzt, wie eigentlich schon immer vorgesehen, Mana in höhe des aktuellen Levels.
+- [Fixed] Große Zuckerstange des Weihnachtsmanns erhöht das Glück so lange sie angelegt ist.
+### Events
+- [Added] Das Server-Event `Geisterfest '20` wurde bis 1.11.2020 aktiviert.
+- [Added] Vorbereitung für das Server-Event `Nordwind: Ruf zu Waffen`, dass ab 1.11.2020 startet.
+### Bekannte Fehler & Sonstiges
+- [Bug] Manche Befehle wie z.B. `!Names` funktionieren noch nicht korrekt und werden so bald wie möglich nachgereicht.
+- [Bug] Während der Charaktererstellung kommt es zu einem Fehler wenn man den Rückwärtspfeil wählt, um seine Auswahl zu korrigieren.
 
 ## [0.8u] [Client / Server v1.78 Rev018] 12-05-2020
 ### Client / Server
