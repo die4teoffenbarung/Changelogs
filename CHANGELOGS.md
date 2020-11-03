@@ -2,6 +2,15 @@
 Alle Änderungen für den Live-Server werden [hier](https://www.d4o.info/index.php/das-spiel/server/changelogs/326-version-dev.html) eingetragen.
 
 Das Changelog-Styling basiert auf [Keep a Changelog](https://keepachangelog.com/de/1.0.0/).
+## [Version 1.91] (03-11-2020)
+### Client & Server
+- [Fixed] Server abstürze analysiert und behoben.
+- [Fixed] Client abstürze, verursacht durch verschiedene neue Grafiken, wurden behoben.
+- [Fixed] Gespeicherte Accountnamen sollten nicht mehr die Daten anderer Server überschreiben und umgekehrt.
+- [Fixed] Das Channel-Interface wurde korrigiert, ausserdem können User in Channels wieder Ignoriert werden.
+### Items
+- [Fixed] `Item-Spells mit Linksklick auf das Effekt-Icon` funktionieren wieder für einen großteil der Items.
+
 ## [Version 1.90] (15-10-2020)
 ### Client & Server
 - [Fixed] Offizielle Dialsoft Änderungen und Neuerungen aus v1.74 wurden migriert.
