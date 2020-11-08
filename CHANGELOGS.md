@@ -8,10 +8,11 @@ Das Changelog-Styling basiert auf [Keep a Changelog](https://keepachangelog.com/
 - [Fixed] Client abstürze, verursacht durch verschiedene neue Grafiken, wurden behoben.
 - [Fixed] Gespeicherte Accountnamen sollten nicht mehr die Daten anderer Server überschreiben und umgekehrt.
 - [Fixed] Das Channel-Interface wurde korrigiert, ausserdem können User in Channels wieder Ignoriert werden.
+- [Fixed] Stabilität des Launchers wurde verbessert.
 ### Items
-- [Fixed] `Item-Spells mit Linksklick auf das Effekt-Icon` funktionieren wieder für einen großteil der Items.
+- [Fixed] Reaktivieren von Item-Spells mit `Linksklick auf das Effekt-Icon` funktionieren wieder bei einem großteil der Items.
 
-## [Version 1.90] (15-10-2020)
+## [Version 1.90] (09-11-2020)
 ### Client & Server
 - [Fixed] Offizielle Dialsoft Änderungen und Neuerungen aus v1.74 wurden migriert.
 - [Fixed] Unterstützung für DirectX wurde verbessert.
@@ -34,15 +35,24 @@ Das Changelog-Styling basiert auf [Keep a Changelog](https://keepachangelog.com/
 - [Added] Die Karte wird nun mit `STRG + Tab` anstelle von `Tab` angezeigt.
 - [Added] Mit `Tab` ist es nun möglich ein Ziel auszuwählen. Mit einem Klick auf den Lebensbalken könnt ihr das Ziel fixieren.
 - [Added] Mit `Shift + Tab` ist es nun möglich das vorherige Ziel auszuwählen.
+- [Hotfix] Server-Stabilität verbessert.
 ### Items
 - [Fixed] Gürtel des Instabilen schutzes kostet jetzt, wie eigentlich schon immer vorgesehen, Mana in höhe des aktuellen Levels.
 - [Fixed] Große Zuckerstange des Weihnachtsmanns erhöht das Glück so lange sie angelegt ist.
+- [Hotfix] `Höllenhund HC` wurde erheblich verstärkt.
+- [Hotfix] `Magische handliche Lagertruhe` wird jetzt nach Nutzung vor dem Spieler erscheinen und kann von anderen Spielern genutzt und/oder zerstört werden.
+### NPCs
+- [Hotfix] `Trainer Bergil` sollte jetzt mit einem `unbegrenzten Haustier-Zertifikat` zufrieden sein und das Zertifikat sofort in die Tasche legen.
+
 ### Events
 - [Added] Das Server-Event `Geisterfest '20` wurde bis 1.11.2020 aktiviert.
 - [Added] Vorbereitung für das Server-Event `Nordwind: Ruf zu Waffen`, dass ab 1.11.2020 startet.
 ### Bekannte Fehler & Sonstiges
 - [Bug] Manche Befehle wie z.B. `!Names` funktionieren noch nicht korrekt und werden so bald wie möglich nachgereicht.
 - [Bug] Während der Charaktererstellung kommt es zu einem Fehler wenn man den Rückwärtspfeil wählt, um seine Auswahl zu korrigieren.
+### Items
+- [Fixed] Gürtel des Instabilen schutzes kostet jetzt, wie eigentlich schon immer vorgesehen, Mana in höhe des aktuellen Levels.
+- [Fixed] Große Zuckerstange des Weihnachtsmanns erhöht das Glück so lange sie angelegt ist.
 
 ## [0.8u] [Client / Server v1.78 Rev018] 12-05-2020
 ### Client / Server
