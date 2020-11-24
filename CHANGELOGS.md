@@ -2,13 +2,16 @@
 Alle Änderungen für den Live-Server werden [hier](https://www.d4o.info/index.php/das-spiel/server/changelogs/326-version-dev.html) eingetragen.
 
 Das Changelog-Styling basiert auf [Keep a Changelog](https://keepachangelog.com/de/1.0.0/).
-## [Version 1.91] (03-11-2020)
+## [Version 1.92] (06-01-2021)
 ### Client & Server
 - [Fixed] Server abstürze analysiert und behoben.
 - [Fixed] Client abstürze, verursacht durch verschiedene neue Grafiken, wurden behoben.
+- [Fixed] Stabilität des Launchers wurde verbessert.
 - [Fixed] Gespeicherte Accountnamen sollten nicht mehr die Daten anderer Server überschreiben und umgekehrt.
 - [Fixed] Das Channel-Interface wurde korrigiert, ausserdem können User in Channels wieder Ignoriert werden.
-- [Fixed] Stabilität des Launchers wurde verbessert.
+- [Fixed] Übersetzungsfehler in Client und Server korrigiert
+- [Added] Suchen-Button im Item Info-Fenster, zur direkten Suche im Lexikon.
+- [New] Prozent-Anzeige der XP-Leiste mit 2 stellen hinter dem Komma
 ### Items
 - [Fixed] Reaktivieren von Item-Spells mit `Linksklick auf das Effekt-Icon` funktionieren wieder bei einem großteil der Items.
 
