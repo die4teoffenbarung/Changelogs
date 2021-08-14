@@ -2,9 +2,9 @@
 Alle Änderungen für den Live-Server werden [hier](https://www.d4o.info/index.php/das-spiel/server/changelogs/326-version-dev.html) eingetragen.
 
 Das Changelog-Styling basiert auf [Keep a Changelog](https://keepachangelog.com/de/1.0.0/).
-## [Version 1.92] (19-01-2021)
+## [Version 1.92] (14-08-2021)
 ### Client & Server
-- [Fixed] Offene Hintergrund-Fenster schränken nicht mehr die Reaktionszeit des Spiels ein.
+- [Fixed] Offene Hintergrund-Fenster nicht mehr die Reaktionszeit des Spiels einschränken.
 - [Added] Auflösung `1920x1080` [16:9]
 - [Fixed] Client abstürze, verursacht durch verschiedene neue Grafiken, wurden behoben.
 - [Fixed] Stabilität des Servers verbessert.
@@ -16,6 +16,7 @@ Das Changelog-Styling basiert auf [Keep a Changelog](https://keepachangelog.com/
 - [Added] Prozent-Anzeige der XP-Leiste mit zwei stellen hinter dem Komma
 - [Fixed] Server Welcome Message wird wieder angezeigt nach dem Login in das Spiel. 
 Aktivierte Willkommensnachrichten: `Server-Laufzeit` `Gesamte Spielzeit` `XP-Multiplikator Status`
+- [Added] Neue Willkommennachrichten: `Familien Mitglieder online` `Gilden Mitglieder online`
 ### Items
 - [Fixed] Reaktivieren von Item-Spells mit `Linksklick auf das Effekt-Icon` funktionieren wieder bei einem großteil der Items.
 ### NPCs
